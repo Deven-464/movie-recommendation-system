@@ -7,6 +7,6 @@ venv/
 .idea/
 .vscode/
 
-*.pkl
+
 
 credits.csv
